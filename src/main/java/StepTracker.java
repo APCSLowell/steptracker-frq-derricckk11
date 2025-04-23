@@ -11,7 +11,7 @@ public class StepTracker
  public StepTracker(int minSteps){
 
   numSteps = 0;
-  numDays = 0;
+  totalDays = 0;
   min = minSteps; 
   
  }
